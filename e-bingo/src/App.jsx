@@ -66,7 +66,7 @@ export default function App() {
         <div>
           <h1>E-Bingo Player</h1>
           <p className="subtitle">
-            Enter a Game Code to join and manage multiple Bingo cards simultaneously.
+            Enter a Game Code below to join and manage multiple Bingo cards at the same time.
           </p>
         </div>
 
